@@ -1,6 +1,10 @@
-# notification
+# Awesome notification
 
-A new Flutter project.
+A firebase-flutter awesome notification project by Fellyla Fiorenza 5025221110.
+
+**Homepage** 
+
+![image](https://github.com/user-attachments/assets/a1c15edf-9b2e-4433-8f21-8a7a583008af)
 
 ## Getting Started
 
